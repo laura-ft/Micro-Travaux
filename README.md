@@ -1,3 +1,5 @@
 # Micro-Travaux
-PowerPoint presentation jeux Misère en ligne avec plusieurs joueurs
-https://drive.google.com/open?id=0BzCL2WpeLBJyT0dlM21va1B5TkU
+PowerPoint presentation Jeu Misère en ligne avec plusieurs joueurs
+https://docs.google.com/presentation/d/1Dma2JdtJqpWpNpAzaaS38RgF2gctuhY5BILqoNsAsU4/edit?usp=sharing
+
+Jusqu'à maintenant on a réalisé le jeu avec la partie graphique. On doit encore le mettre en ligne.
